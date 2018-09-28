@@ -24,3 +24,6 @@ This is Bob and Carol on Carol's computer. Bob is really nice and I like pizza b
 Third turn
 **************************
 Yo yo what up in the hizzy. We be chillin out here cuz that's how we do it.
+
+Brrrng brrrrng "hello" --> "this is bob and carol we were just calling to lef you know that we are hungry for pizza and love mag-luv."
+
