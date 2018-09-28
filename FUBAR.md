@@ -6,3 +6,5 @@ WhY ArEnT My ThInGs LOaDeD
 This is what Bob & Carol did on Bob's computer when working on the first feature.  Cool.  Alright.
 This is what Ted and Alice Cooper did on Ted Nugent's computer. They determined that school was out for summer and that they have cat scratch fever.
 
+
+Ted is adding this second round of changes.  Lets see how this goes...
