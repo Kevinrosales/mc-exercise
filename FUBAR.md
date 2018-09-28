@@ -13,4 +13,4 @@ Ted is adding this second round of changes.  Lets see how this goes...
 
 This is Bob and Carol on Carol's computer. Bob is really nice and I like pizza but the Code 301 class would not give me any.
 
-
+Brrrng brrrrng "hello" --> "this is bob and carol we were just calling to lef you know that we are hungry for pizza and love mag-luv."
